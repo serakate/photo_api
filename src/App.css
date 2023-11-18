@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.drop-area {
+  width: 80vw;
+  height: 50vw;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  border: 2px dashed #ccc;
+  background-color: aliceblue;
+  color: black
+}
+.loaded-image {
+  max-width: 30vw;
+  max-height: 30vw;
+}
