@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Порядок действий
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Скачать проект
+Установить node.js
+Установить зависимости `npm install`
+Запустить `npm start`
 
 ## Available Scripts
 
